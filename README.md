@@ -31,3 +31,8 @@ This task focuses on designing a 4-stage pipelined processor using Verilog HDL. 
 Description:
 In this task, a Finite Impulse Response (FIR) digital filter is designed and simulated using Verilog. The FIR filter processes digital input signals using a fixed set of coefficients to produce a filtered output. A multi-tap FIR structure is implemented using shift registers and adders. The filter’s functionality is verified through simulation by applying sample input signals and observing the filtered output, demonstrating noise reduction and signal smoothing characteristics.
 
+outputs:
+<img width="430" height="214" alt="Image" src="https://github.com/user-attachments/assets/c8a9c2de-609f-4ae3-ba58-099e876acbb7" />
+<img width="1367" height="528" alt="Image" src="https://github.com/user-attachments/assets/3d780704-cfec-4250-a38e-d0c75e744387" />
+<img width="713" height="406" alt="Image" src="https://github.com/user-attachments/assets/47fc678a-0764-41cf-a952-94fb1f56aec4" />
+<!-- Uploading "pipeline processor_output.png"... -->
